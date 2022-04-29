@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    margin-left: 0.5rem;
+}
+header{
+    text-align: left;
+}
+#title{
+    font-size: 4rem;
+    text-decoration: overline;
+}
+p{
+    font-size: 1.38rem;
+    margin-bottom: 1rem;
+}
+.input{
+    width: 13rem;
+    height: 2rem;
+    margin-top: 1.3rem;
+    margin-bottom: 3px;
+}
+.label{
+    font-size: 1.2rem;
+}
+
+#dropdown{
+    width: 10rem;
+    height: 1.3rem;
+    margin-bottom: 1rem;
+}
+#recommend-clarusway{
+    margin-bottom: 1rem;
+}
+.recommend-prefer{
+    margin-bottom: 1rem;
+}
+#most-like{
+    margin-bottom: 1rem;
+    width: 10rem;
+    height: 1.3rem;
+}
+.prefer-checkbox{
+    margin-bottom: 1rem;
+}
+#feedback{
+    padding: 0.3rem;
+    min-width: 15rem;
+    min-height: 8rem;
+}
+#submit{
+    border: none;
+      
+}
