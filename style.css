@@ -4,11 +4,9 @@
     
 }
 body{
-    margin-left: 0.5rem;
+    margin-left: 1rem;
 }
-header{
-    text-align: left;
-}
+
 #title{
     font-size: 4rem;
     text-decoration: overline;
@@ -37,6 +35,7 @@ p{
 }
 .recommend-prefer{
     margin-bottom: 1rem;
+    /* line-height: 2rem; */
 }
 #most-like{
     margin-bottom: 1rem;
@@ -52,6 +51,5 @@ p{
     min-height: 8rem;
 }
 #submit{
-    border: none;
-      
+    border: none;      
 }
